@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [08/Mar/2019:21:41:05 +0800] "GET /search.html?keyword= HTTP/1.1" 404 973 http-bio-8085-exec-1 28
+0:0:0:0:0:0:0:1 - - [08/Mar/2019:21:41:05 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-3 1
+0:0:0:0:0:0:0:1 - - [08/Mar/2019:21:41:14 +0800] "GET /search.html?keyword= HTTP/1.1" 404 973 http-bio-8085-exec-4 2
+0:0:0:0:0:0:0:1 - - [08/Mar/2019:21:41:20 +0800] "GET /search.html?keyword= HTTP/1.1" 404 973 http-bio-8085-exec-5 1
